@@ -1,6 +1,6 @@
 #Quotes
 
-Sample project written using ClojureScript + Reagent.
+Sample project written using ClojureScript + Reagent (Done just for fun).
 
 Based on template [reagent-template](https://github.com/reagent-project/reagent-template).
 
