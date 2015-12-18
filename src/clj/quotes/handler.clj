@@ -1,4 +1,4 @@
-(ns react-cljs-blogpost.handler
+(ns quotes.handler
   (:require [compojure.core :refer [GET defroutes]]
             [compojure.route :refer [not-found resources]]
             [ring.middleware.defaults :refer [site-defaults wrap-defaults]]

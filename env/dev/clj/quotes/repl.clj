@@ -1,6 +1,6 @@
-(ns react-cljs-blogpost.repl
-  (:use react-cljs-blogpost.handler
-        react-cljs-blogpost.dev
+(ns quotes.repl
+  (:use quotes.handler
+        quotes.dev
         ring.server.standalone
         [ring.middleware file-info file]))
 

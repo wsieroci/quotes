@@ -1,4 +1,4 @@
-(ns react-cljs-blogpost.server
+(ns quotes.server
   (:require [react-cljs-blogpost.handler :refer [app]]
             [ring.adapter.jetty :refer [run-jetty]])
   (:gen-class))

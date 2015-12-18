@@ -1,1 +1,1 @@
-web: java $JVM_OPTS -cp target/react-cljs-blogpost.jar clojure.main -m react-cljs-blogpost.server
+web: java $JVM_OPTS -cp target/quotes.jar clojure.main -m quotes.server

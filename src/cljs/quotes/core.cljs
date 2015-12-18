@@ -1,4 +1,4 @@
-(ns react-cljs-blogpost.core
+(ns quotes.core
   (:require-macros [cljs.core.async.macros :refer [go]])
   (:require [reagent.core :as reagent :refer [atom]]
             [reagent.session :as session]

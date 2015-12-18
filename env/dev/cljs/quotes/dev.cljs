@@ -1,5 +1,5 @@
-(ns ^:figwheel-no-load react-cljs-blogpost.dev
-  (:require [react-cljs-blogpost.core :as core]
+(ns ^:figwheel-no-load quotes.dev
+  (:require [quotes.core :as core]
             [figwheel.client :as figwheel :include-macros true]
             [weasel.repl :as weasel]
             [reagent.core :as r]))
